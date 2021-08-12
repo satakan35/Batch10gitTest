@@ -4,7 +4,7 @@ public class GitClassFile02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("this is second commit file");
+System.out.println("this is not commit file");
 
 
 	}
